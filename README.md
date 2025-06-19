@@ -38,7 +38,6 @@ jupyter nbconvert --to html Part_II_slide_deck_template.ipynb
 - Trip duration by user type and gender
 - Users by type and gender
 
-*(Add an image if you have one — place in images/ and link it here)*
 
 ## 📥 Dataset
 
