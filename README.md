@@ -6,7 +6,6 @@ This repository contains a full exploratory and explanatory data analysis of the
 
 - `Part_I_exploration_template.ipynb` — Notebook for exploratory analysis.
 - `Part_II_slide_deck_template.ipynb` — Notebook for explanatory presentation.
-- `images/` — (Optional) Folder to save plots/images if you want to link them in README.
 - `data/` — Contains the dataset `201902-fordgobike-tripdata.csv`.
 
 ## 🚀 How to Run the Project
